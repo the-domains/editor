@@ -1,0 +1,28 @@
+name: editor
+favicon: null
+layout_spectrum: 0.36093881516717374
+typography_spectrum: 0.4465108150616288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1f1f1f'
+    - '#4f4f51'
+    - '#7b7875'
+    - '#689fd8'
+    - '#187388'
+  brandStrength: 0.1875
+  lightness: 0.8772098855115473
+  saturation: 0.03795972722582519
+  rhythmicContrast: 0.6795069244690239
+purpose: []
