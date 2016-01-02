@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T18:21:54.621Z'
-dateModified: '2016-01-02T18:19:45.281Z'
+datePublished: '2016-01-02T18:30:33.340Z'
+dateModified: '2016-01-02T18:30:18.431Z'
 title: "How do I get started?\_"
 author: []
+sourcePath: _posts/2016-01-02-how-do-i-get-started.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-how-do-i-get-started.md
-published: true
 url: how-do-i-get-started/index.html
 _type: Article
 
@@ -35,3 +35,4 @@ Our editors work to competitive market rates, but in most cases an editor will w
 # 3\. Select your editor 
 
 Soon after starting a project you'll be getting proposals from our editors. For Example: "I'll be happy to edit this video for $150, it should take about 3 days." You can review the editors' portfolios and see their previous work. Send them any questions you might have, and request examples of similar videos they've edited in the past. Treat this process like you would any interview. When you're confident about the editor you want to hire, accept his or her proposal. You'll be prompted to enter your PayPal/credit card details, but will not be billed. Your account will only be charged when the work is done.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f44cd76e-aee8-4432-adce-bed4baa35a73.jpg)
