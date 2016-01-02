@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T18:30:33.340Z'
-dateModified: '2016-01-02T18:30:18.431Z'
+datePublished: '2016-01-02T18:45:49.719Z'
+dateModified: '2016-01-02T18:34:11.965Z'
 title: "How do I get started?\_"
 author: []
 sourcePath: _posts/2016-01-02-how-do-i-get-started.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: how-do-i-get-started/index.html
-_type: Article
+_type: WebPage
 
 ---
 # How do I get started? 
